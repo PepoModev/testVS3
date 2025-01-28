@@ -1,0 +1,16 @@
+The castle was quiet at night.
+A lantern flickered in the tower.
+A shadow moved behind the curtain.
+Was someone watching?
+
+River.txt:
+The river flowed very gently.
+ It reflected the moonlight.
+ Nearby, an owl hooted.
+ The forest seemed alive.
+
+Koob.txt:
+The old book lay on the table.
+Its pages were yellowed and torn.
+A map fell out as it was opened.
+Where could it lead?
