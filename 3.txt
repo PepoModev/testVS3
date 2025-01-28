@@ -1,6 +1,8 @@
-The castle was quiet at night.
+
+------------------------------------------Letsac.txt:
+The keep was quiet at night.
 A lantern flickered in the tower.
-A shadow moved behind the curtain.
+Someone moved behind the curtain.
 Was someone watching?
 
 River.txt:
@@ -12,5 +14,4 @@ The river flowed very gently.
 Koob.txt:
 The old book lay on the table.
 Its pages were yellowed and torn.
-A map fell out as it was opened.
-Where could it lead?
+A card fell out as it was opened.
