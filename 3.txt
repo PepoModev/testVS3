@@ -1,4 +1,9 @@
 
+The bastion was quiet at night.
+A lantern flickered in the tower.
+Shadows moved behind the curtain.
+
+
 ------------------------------------------Letsac.txt:
 The keep was quiet at night.
 A lantern flickered in the tower.
@@ -6,7 +11,7 @@ Someone moved behind the curtain.
 Was someone watching?
 
 River.txt:
-The river flowed very gently.
+The river flowed gently.
  It reflected the moonlight.
  Nearby, an owl hooted.
  The forest seemed alive.
@@ -14,4 +19,8 @@ The river flowed very gently.
 Koob.txt:
 The old book lay on the table.
 Its pages were yellowed and torn.
+<<<<<<< HEAD
+A note fell out as it was opened.
+Where could it lead?
 A card fell out as it was opened.
+
